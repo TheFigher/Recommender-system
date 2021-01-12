@@ -23,3 +23,9 @@ DataMining：
 ML：
 
 ​	1、FM    因子分解机 
+
+##### 三、推荐系统应用
+
+Recomment:
+
+​	1、基于用户行为特征的推荐（MovieRecommendationSystem，电影推荐系统案例）
