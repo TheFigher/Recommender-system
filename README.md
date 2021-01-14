@@ -29,3 +29,17 @@ ML：
 Recomment:
 
 ​	1、基于用户行为特征的推荐（MovieRecommendationSystem，电影推荐系统案例）
+
+​		CBRecom.py 基于内容推荐
+
+​		dataProcessing.py  数据预处理
+
+​		UserCF.py    UserCF算法原理
+
+​		UserCF_MovieRec.py  基于UserCF算法的电影推荐系统
+
+​		ItemCF.py   ItemCF算法原理
+
+​		ItemCF_MovieRec.py    基于ItemCF算法的电影推荐系统
+
+​		LFM.py    隐语义模型的电影推荐
