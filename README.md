@@ -43,3 +43,10 @@ Recomment:
 ​		ItemCF_MovieRec.py    基于ItemCF算法的电影推荐系统
 
 ​		LFM.py    隐语义模型的电影推荐
+
+​	2、基于标签推荐（TagbasedRecommendation，艺术家推荐系统）
+
+​		TF_IDF.py  TF_IDF关键词提取
+
+​		RecommentBasedTag.py  艺术家推荐
+
