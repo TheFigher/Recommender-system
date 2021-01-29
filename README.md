@@ -50,3 +50,12 @@ Recomment:
 
 ​		RecommentBasedTag.py  艺术家推荐
 
+​	3、基于上下文推荐（Context_based_recommendation）
+
+​		hotel_recommend.py    基于地域和热度的酒店推荐
+
+​		Time_effect_analysis.py   时间效应分析
+
+​		UserCF_Time.py    基于用户协同过滤添加时间因素
+
+​		ItemCF_Time.py    基于物品协同过滤添加时间因素
